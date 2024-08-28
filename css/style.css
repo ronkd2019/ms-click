@@ -99,5 +99,5 @@ html {
     width: 300px;
     height: 60px;
     font-family: var(--main-font);
-    background: radial-gradient();
+    background: radial-gradient( var(--light-accent-color), var(--third-color));
 }
